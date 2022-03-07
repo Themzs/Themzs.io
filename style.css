@@ -1,0 +1,23 @@
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+img {
+    padding: 5px;
+}
+
+h1 {
+    color: royalblue;
+    text-align: center;
+}
+h2 {
+    color:orangered;
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+    color: olivedrab;
+    text-justify: inter-word;
+    padding: 5px;
+}
